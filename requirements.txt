@@ -1,9 +1,0 @@
-Flask
-Jinja2
-Werkzeug
-numpy
-scikit-learn
-pandas
-keras
-opencv-python
-Pillow
