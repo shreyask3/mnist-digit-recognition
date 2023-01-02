@@ -1,0 +1,10 @@
+Flask
+Jinja2
+Werkzeug
+numpy
+scikit-learn
+pandas
+keras
+tesnorflow
+opencv-python
+Pillow
